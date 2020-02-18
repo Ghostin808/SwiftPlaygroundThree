@@ -1,0 +1,2 @@
+# SwiftPlaygroundThree
+Introduction to arrays 
